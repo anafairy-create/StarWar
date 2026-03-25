@@ -1,0 +1,28 @@
+@import url('https://fonts.cdnfonts.com/css/star-wars');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color:aliceblue;
+    padding: 20px;
+}
+
+header h1{
+    text-align: center;
+    padding: 20px;
+    border-bottom: 2px solid #ffe81f;
+}
+
+h1{
+    color: #ffe81f;
+}
+
+.destaque{
+    font-family: 'Star Wars', sans-serif;
+}
